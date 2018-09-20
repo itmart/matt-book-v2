@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+rails -v 5.2.1
 
-Things you may want to cover:
+ruby -v  2.5.1
 
-* Ruby version
+# About
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a facebook knock-off for me to practice rails and react
