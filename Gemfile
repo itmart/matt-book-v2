@@ -71,3 +71,6 @@ gem 'react-rails'
 
 # Log in/out, session stuff
 gem 'devise'
+
+# Bootstrap gem
+gem 'bootstrap', '~> 4.1.3'
